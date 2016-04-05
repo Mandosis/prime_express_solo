@@ -1,0 +1,22 @@
+{
+  "name": "prime_express_solo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandosis/prime_express_solo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandosis/prime_express_solo/issues"
+  },
+  "homepage": "https://github.com/Mandosis/prime_express_solo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
